@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets and local config
+.env
+
+# Raw datasets (large; we document how to download them instead)
+data/raw/
+*.csv
+*.xlsx
+
+# Editor files
+.vscode/
